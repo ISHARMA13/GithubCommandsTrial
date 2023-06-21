@@ -1,2 +1,3 @@
 This is file2
 Updating on branch3.
+updating on b2
